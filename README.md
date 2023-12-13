@@ -1,5 +1,5 @@
 # Tema_Proiect_Python
-Recomandare de instalare pentru rulare: Visual Studio Code (link  https://code.visualstudio.com/Download)
+Recomandare de instalare pentru rulare: Visual Studio Code (link https://code.visualstudio.com/Download)
 	-> Se instaleaza extensia Python din meniul Extensions. 
 	-> Se descarca cele 3 documente ex1.py, ex2.py si data.csv, se apasa click dreapta "open with" si se selecteaza VS Code. 
 	-> O data deschis, pentru a rula fie se apasa pe Run code (triunghiul din dreapta sus), fie se apasa Ctrl+Alt+n. 
@@ -20,4 +20,3 @@ Referinte:
         https://www.w3schools.com/python/matplotlib_plotting.asp
         https://www.w3schools.com/python/matplotlib_markers.asp
         https://htmlcolorcodes.com/
-	
