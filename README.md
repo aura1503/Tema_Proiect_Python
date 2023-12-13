@@ -1,9 +1,9 @@
 # Tema_Proiect_Python
 Recomandare de instalare pentru rulare: Visual Studio Code (link  https://code.visualstudio.com/Download)
--> Se instaleaza extensia Python din meniul Extensions. 
--> Se descarca cele 3 documente ex1.py, ex2.py si data.csv, se apasa click dreapta "open with" si se selecteaza VS Code. 
--> O data deschis, pentru a rula fie se apasa pe Run code (triunghiul din dreapta sus), fie se apasa Ctrl+Alt+n. 
--> Rezultatul va fi afisat in terminal sau in output (depinde daca in VS Code a fost facuta setarea ca toate rezultatele sa fie afisate in terminal). 	
+	-> Se instaleaza extensia Python din meniul Extensions. 
+	-> Se descarca cele 3 documente ex1.py, ex2.py si data.csv, se apasa click dreapta "open with" si se selecteaza VS Code. 
+	-> O data deschis, pentru a rula fie se apasa pe Run code (triunghiul din dreapta sus), fie se apasa Ctrl+Alt+n. 
+	-> Rezultatul va fi afisat in terminal sau in output (depinde daca in VS Code a fost facuta setarea ca toate rezultatele sa fie afisate in terminal). 	
 
 Pentru ex1.py:
 	- Rezultatul va fi afisat in terminal/output.
