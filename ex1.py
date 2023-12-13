@@ -20,6 +20,7 @@ class Employee:
 
     def update_salary(self, new_salary):
         self.salary = new_salary
+
 ##    def add_task(self, task_name):
 ##        self.tasks[task_name] = "New"   # needs tasks defined before (in __init__)
 ##
